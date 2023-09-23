@@ -1,4 +1,4 @@
-# NLP-Sentence-Analysis-Feature-Extraction
+# NLP: Sentence Analysis & Feature Extraction
 
 This repository contains code for sentence analysis and feature extraction using natural language processing techniques. The code is written in Python and makes use of various libraries and models.
 
